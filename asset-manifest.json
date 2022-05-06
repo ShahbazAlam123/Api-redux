@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Api-redux/static/css/main.8bc98300.css",
+    "main.js": "/Api-redux/static/js/main.375a891f.js",
+    "index.html": "/Api-redux/index.html",
+    "main.8bc98300.css.map": "/Api-redux/static/css/main.8bc98300.css.map",
+    "main.375a891f.js.map": "/Api-redux/static/js/main.375a891f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bc98300.css",
+    "static/js/main.375a891f.js"
+  ]
+}
